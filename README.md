@@ -4,13 +4,13 @@ A Spring Boot Student Management System with Role-Based Authentication, paginati
 
 ## Features
 
-- ✅ **Student CRUD Operations** - Create, Read, Update, Delete students
-- ✅ **Pagination & Sorting** - Paginated results with customizable sorting
-- ✅ **Role-Based Authentication** - USER, MODERATOR, ADMIN roles
-- ✅ **Password Encryption** - BCrypt password hashing
-- ✅ **JWT Authentication** - Secure token-based authentication
-- ✅ **MySQL Database** - Persistent data storage
-- ✅ **RESTful API** - Clean REST API endpoints
+-**Student CRUD Operations** - Create, Read, Update, Delete students
+-**Pagination & Sorting** - Paginated results with customizable sorting
+-**Role-Based Authentication** - USER, MODERATOR, ADMIN roles
+-**Password Encryption** - BCrypt password hashing
+-**JWT Authentication** - Secure token-based authentication
+-**MySQL Database** - Persistent data storage
+-**RESTful API** - Clean REST API endpoints
 
 ## Technology Stack
 
